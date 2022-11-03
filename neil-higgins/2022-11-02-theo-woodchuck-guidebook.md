@@ -31,7 +31,14 @@ Why
 
 ## File Names
 
-Use date-author-topic
+Use date-author-topic etc
+
+
+## File Format: Google Docs
+
+Wonderful incredible stuff. Unfortunately, the format is totally proprietary and not archiveable.
+
+Until things change, only use it when communicating with earthlings.
 
 
 ## File Format: Markdown
@@ -46,12 +53,18 @@ Use date-author-topic
 >Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters — including Setext, atx, Textile, reStructuredText, Grutatext, and EtText — the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
 
 * https://en.wikipedia.org/wiki/Markdown
->Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+>Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
 See [Markdown Basics]( https://help.github.com/articles/markdown-basics/ )
+
+
 
 ## Fonts
 
 The font used here is the the default 'monospace' font as determined by your browser. This is because it is the most common font used to write scripts.
+
+## Rules
+
+The only way to know if a rule works is to break it from time to time
 
 
